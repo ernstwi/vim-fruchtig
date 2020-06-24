@@ -63,3 +63,6 @@ hi! link Todo             PreProc
 hi! link schemeError      PreProc
 hi! link TabLineSel       StatusLine
 hi! link PmenuSel         WildMenu
+
+hi       diffAdded   guifg=#43C464
+hi! link diffRemoved PreProc
